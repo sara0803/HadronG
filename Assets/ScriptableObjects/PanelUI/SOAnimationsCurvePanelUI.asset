@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 982e10e537a015c498392fc2ff234737, type: 3}
+  m_Name: SOAnimationsCurvePanelUI
+  m_EditorClassIdentifier: 
+  animationCurveEscalaAparecer:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.69009346
+      value: 0.2584228
+      inSlope: 1.9012638
+      outSlope: 1.9012638
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.040336516
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.883105
+      value: 0.9980936
+      inSlope: 2.1972034
+      outSlope: 2.1972034
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: -0.48625198
+      outSlope: -0.48625198
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.4073659
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  animationCurveEscalaOcultar:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1.0004199
+      inSlope: 0.89843464
+      outSlope: 0.89843464
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.09178489
+    - serializedVersion: 3
+      time: 0.49238744
+      value: 0.4538612
+      inSlope: -2.6145296
+      outSlope: -2.6145296
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.05528693
+    - serializedVersion: 3
+      time: 1
+      value: 0.0014249086
+      inSlope: 5.012257
+      outSlope: 5.012257
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.046116613
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  animationCurveTransparenciaAparecer:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.69009346
+      value: 0.2584228
+      inSlope: 1.9012638
+      outSlope: 1.9012638
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.040336516
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.883105
+      value: 0.9980936
+      inSlope: 2.1972034
+      outSlope: 2.1972034
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: -0.48625198
+      outSlope: -0.48625198
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.4073659
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  animationCurveTransparenciaOcultar:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1.0004199
+      inSlope: 0.89843464
+      outSlope: 0.89843464
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.09178489
+    - serializedVersion: 3
+      time: 0.49238744
+      value: 0.4538612
+      inSlope: -2.6145296
+      outSlope: -2.6145296
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.05528693
+    - serializedVersion: 3
+      time: 1
+      value: 0.0014249086
+      inSlope: 5.012257
+      outSlope: 5.012257
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.046116613
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tiempoAparicion: 0.25
+  tiempoOcultacion: 0.25
